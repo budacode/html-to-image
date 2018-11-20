@@ -1,6 +1,6 @@
 # html-to-image
 
-> A pure JavaScript library which can turn arbitrary DOM node into a vector (SVG) or raster (PNG or JPEG) images. Fork from [dom-to-image](https://github.com/tsayen/dom-to-image) with more maintainable code and some new features.
+> A pure JavaScript library which can turn arbitrary DOM node into a vector (SVG) or raster (PNG or JPEG) images. Fork from [html-to-image](https://github.com/bubkoo/html-to-image) with more maintainable code and some new features.
 
 ## Install 
 

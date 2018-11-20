@@ -22,18 +22,18 @@
     "svg"
   ],
   "author": {
-    "name": "bubkooo",
-    "email": "bubkoo.wy@gmail.com"
+    "name": "Budacode",
+    "email": "developers@budacode.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/html-to-image.git"
+    "url": "git+https://github.com/budacode/html-to-image.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/html-to-image/issues"
+    "url": "https://github.com/budacode/html-to-image/issues"
   },
-  "homepage": "https://github.com/bubkoo/html-to-image#readme",
+  "homepage": "https://github.com/budacode/html-to-image#readme",
   "devDependencies": {
     "husky": "^0.14.3",
     "tslint": "^5.11.0",
