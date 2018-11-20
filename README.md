@@ -212,4 +212,4 @@ This library uses a feature of SVG that allows having arbitrary HTML content ins
 
 Pull requests and stars are highly welcome.
 
-For bugs and feature requests, please [create an issue](https://github.com/bubkoo/html-to-image/issues/new).
+For bugs and feature requests, please [create an issue](https://github.com/budacode/html-to-image/issues/new).
