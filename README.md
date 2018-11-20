@@ -144,6 +144,19 @@ Set to true to append the current time as a query string to URL requests to enab
 
 Defaults to `false`
 
+### useCorsEverywhereProxy
+
+Decide if you would like to use cors everywhere
+Read more here: https://github.com/Rob--W/cors-anywhere
+
+Defaults to `false`
+
+### customCorsEverywhereProxyLink
+
+A custom URL if you like to use your own cors proxy server.
+
+Defaults `null`
+
 ### imagePlaceholder
 
 A data URL for a placeholder image that will be used when fetching an image fails. 
